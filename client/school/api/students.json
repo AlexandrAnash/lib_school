@@ -1,0 +1,23 @@
+﻿[
+  {
+    "id": 1,
+    "firstName": "foo",
+    "middleName": "foo",
+    "lastName": "foo",
+    "groupId":  1
+  },
+  {
+    "id": 2,
+    "firstName": "bar",
+    "middleName": "bar",
+    "lastName": "bar",
+    "groupId":  1
+  },
+  {
+    "id": 3,
+    "firstName": "bar",
+    "middleName": "bar",
+    "lastName": "bar",
+    "groupId":  1
+  }
+]
